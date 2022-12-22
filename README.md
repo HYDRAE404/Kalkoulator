@@ -5,8 +5,6 @@ This project is a calculator in an interactive shell. The user can choose betwee
 
 And fun fact: The project's name came from a friend who said "**kalkoulator** is calculator but with strong indian accent"
 
-<hr>
-
 ## Installing Libraries
 
 A list of libraries used is stored in requirements.txt
@@ -15,8 +13,6 @@ To install the libraries, do: <br>
 ```pip install -r requirements.txt```
 
 NOTE: There may be changes in the project that will use new libraries.
-
-<hr>
 
 ## Project Structure
 ```
