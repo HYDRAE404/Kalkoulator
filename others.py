@@ -264,6 +264,3 @@ class Conditionals:
     @num2.setter
     def num2(self, num2):
         self._num2 = num2
-
-
-PowerNRoot(256, 6).roots()
