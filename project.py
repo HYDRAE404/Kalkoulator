@@ -1,7 +1,8 @@
 
 """
-CS50P - FINAL PROJECT
 KALKOULATOR
+
+it's calculator + extra stuff :)
 """
 
 import sys
