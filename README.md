@@ -63,5 +63,6 @@ Kalkoulator/
 
 
 <hr>
+**Note**: The program is relatively new and fresh (and so is my knowledge in math). Some may encounter unsupported features, or even a bug. I will try my best to continuously develop this app. <br> <br>
 
 For more information about the project, a wiki will be worked on soon. ( If I'm on the mood :] )
