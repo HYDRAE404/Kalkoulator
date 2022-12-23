@@ -14,6 +14,14 @@ To install the libraries, do: <br>
 
 NOTE: There may be changes in the project that will use new libraries.
 
+## Features
+- arithmetic operations (addition, subtraction, multiplication, division)
+- modulo operation
+- conversion (Length, Area, Volume, Temperature)
+- Exponentation (xⁿ)
+- Roots (√x)
+- Conditionals (>, <, ≥, ≤, =, ≠)
+
 ## Project Structure
 ```
 Kalkoulator/
