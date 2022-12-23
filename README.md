@@ -1,9 +1,19 @@
 # **Kalkoulator**
+
 ## Description:
 
 This project is a calculator in an interactive shell. The user can choose between operations the calculator can perform such as basic arithmetic, modulo and many more. It also has a converter that can (currently) convert between Length, Area, Volume and Temperature. <br> <br>
 
 And fun fact: The project's name came from a friend who said "**kalkoulator** is calculator but with strong indian accent"
+
+## Features
+- arithmetic operations (addition, subtraction, multiplication, division)
+- modulo operation
+- conversion (Length, Area, Volume, Temperature)
+- Exponentation (xⁿ)
+- Roots (√x)
+- Conditionals (>, <, ≥, ≤, =, ≠)
+
 
 ## Installing Libraries
 
@@ -14,13 +24,6 @@ To install the libraries, do: <br>
 
 NOTE: There may be changes in the project that will use new libraries.
 
-## Features
-- arithmetic operations (addition, subtraction, multiplication, division)
-- modulo operation
-- conversion (Length, Area, Volume, Temperature)
-- Exponentation (xⁿ)
-- Roots (√x)
-- Conditionals (>, <, ≥, ≤, =, ≠)
 
 ## Project Structure
 ```
