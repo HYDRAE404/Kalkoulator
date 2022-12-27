@@ -48,7 +48,7 @@ Volume[class]: a class consisting of supported volume conversions
     ft3_conv: returns the conversions from ft³ to the supported units
     in3_conv: returns the conversions from in³ to the supported units
 
-Temperature: a class consisting of supported temperature conversions
+Temperature[class]: a class consisting of supported temperature conversions
 
     C_conv: returns the conversions from °C to the supported units
     F_conv: returns the conversions from °F to the supported units
