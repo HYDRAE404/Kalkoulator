@@ -35,10 +35,10 @@ Kalkoulator/
 ├── calculator.py
 ├── converters.py
 ├── others.py
-├── project.py
+├── main.py
 ├── README.md
 ├── requirements.txt
-├── test_project.py
+├── test_main.py
 ├── test_calculator.py
 ├── test_converters.py
 └── test_others.py
@@ -46,11 +46,11 @@ Kalkoulator/
 
 **<ins>A brief description of each file is provided below: </ins>** <br>
 <br>
-**project.py** : the main file connected with other files for the app's functionality <br>
+**main.py** : the main file connected with other files for the app's functionality <br>
 **calculator.py** : consists of basic arithmetic + modulo <br>
 **converters.py** : contains unit conversions (Length, Area, Volume and Temperature) <br>
 **others.py** : contains uncategorized operations (Exponentation, nth root, & Conditionals) <br>
-**test_project.py** : unit tests for project.py <br>
+**test_main.py** : unit tests for project.py <br>
 **test_calculator.py** : unit test for calculator.py <br>
 **test_converters.py** : unit test for converters.py <br>
 **test_others.py** : unit test for others.py <br>
